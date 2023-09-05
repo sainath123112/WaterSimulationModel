@@ -1,0 +1,1 @@
+"tick","run","Ant Count","Tip Count"

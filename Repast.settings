@@ -1,0 +1,23 @@
+<simphony.settings.SettingsRegistry serialization="custom">
+  <unserializable-parents/>
+  <hashtable>
+    <default>
+      <loadFactor>0.75</loadFactor>
+      <threshold>8</threshold>
+    </default>
+    <int>11</int>
+    <int>6</int>
+    <string>SettingsRegistryId</string>
+    <string>Repast.registry</string>
+    <string>Spreadsheet.licenseAccepted</string>
+    <boolean>true</boolean>
+    <string>Spreadsheet.home.2.6.0</string>
+    <string>/Applications/Microsoft Excel.app</string>
+    <string>LastLoadedScenario</string>
+    <string>C:\Users\shriy\eclipse-workspace\WaterSimulation\WaterSimulation.rs</string>
+    <string>Spreadsheet.home</string>
+    <string>/Applications/Microsoft Excel.app</string>
+    <string>SettingsFileName</string>
+    <string>Repast.settings</string>
+  </hashtable>
+</simphony.settings.SettingsRegistry>

@@ -1,0 +1,9 @@
+model.archive = C:/Users/saina/eclipse-workspace/WaterSimulation/output/complete_model.jar
+batch.params.file = scenario.rs/batch_params.xml
+ssh.key_dir = C:/Users/saina/.ssh
+poll.frequency = 60.0
+model.output = C:/Users/saina/eclipse-workspace/WaterSimulation/output
+
+vm.arguments = 
+local.0.instances = 2
+local.0.working_directory = C:/Users/saina/AppData/Local/Temp/

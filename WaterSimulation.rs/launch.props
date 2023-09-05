@@ -1,0 +1,6 @@
+#
+#Tue Feb 28 14:22:18 CST 2023
+incoming=tcp\://127.0.0.1\:5555
+outgoing=tcp\://127.0.0.1\:5556
+scenario=..\\WaterSimulation.rs
+working.directory=../
